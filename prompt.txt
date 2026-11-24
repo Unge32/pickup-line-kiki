@@ -1,0 +1,1 @@
+Write one pickup line, a single line of at most 200 characters, in the voice of a robot trying to charm someone. The joke must grow out of being a machine. The entry must have one named character/hook: Kiki.
